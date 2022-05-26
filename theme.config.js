@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/MRingive/showup-docs',
   docsRepositoryBase: 'https://github.com/MRingive/showup-docs/blob/main',
-  titleSuffix: ' – The Show Up Club',
+  titleSuffix: ' – For procrastinators. By procrastinators.',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">the showup</span>
